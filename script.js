@@ -19,13 +19,13 @@ const SOUNDS = {
 
   ON: new Audio('https://assets.codepen.io/605876/switch-on.mp3'),
   BLOW: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/blow-out.mp3'),
+  'https://uploadkon.ir/uploads/d74813_25blow-out.mp3'),
 
   POP: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/pop-trimmed.mp3'),
+  'https://uploadkon.ir/uploads/7e2113_25pop-trimmed.mp3'),
 
   HORN: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/horn.mp3') };
+  'https://uploadkon.ir/uploads/5b5813_25horn.mp3') };
 
 
 
