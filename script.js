@@ -9,13 +9,13 @@ Splitting();
 const BTN = document.querySelector('.birthday-button__button');
 const SOUNDS = {
   CHEER: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/cheer.mp3'),
+  'https://uploadkon.ir/uploads/835f13_25cheer.mp3'),
 
   MATCH: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/match-strike-trimmed.mp3'),
+  'https://uploadkon.ir/uploads/d93c13_25match-strike-trimmed.mp3'),
 
   TUNE: new Audio(
-  'https://s3-us-west-2.amazonaws.com/s.cdpn.io/605876/happy-birthday-trimmed.mp3'),
+  'https://uploadkon.ir/uploads/952313_25voice-b.mp3'),
 
   ON: new Audio('https://assets.codepen.io/605876/switch-on.mp3'),
   BLOW: new Audio(
